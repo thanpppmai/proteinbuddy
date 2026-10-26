@@ -32,6 +32,13 @@
           "image": "./assets/images/splash-icon.png",
           "imageWidth": 76
         }
+      ],
+      [
+        "expo-image-picker",
+        {
+          "cameraPermission": "ใช้กล้องเพื่อถ่ายรูปอาหารแนบกับรายการ",
+          "photosPermission": "เลือกรูปอาหารจากคลังรูป"
+        }
       ]
     ],
     "experiments": {
